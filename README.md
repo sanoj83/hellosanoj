@@ -1,2 +1,0 @@
-# hellosanoj
-Created with CodeSandbox
